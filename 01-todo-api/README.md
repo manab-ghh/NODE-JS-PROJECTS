@@ -18,5 +18,5 @@ A simple RESTful API for managing todo tasks built with Node.js, Express, and Mo
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd todo-api
+git clone https://github.com/manab-ghh/NODE-JS-PROJECTS.git
+cd 01-todo-api
