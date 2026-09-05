@@ -1,4 +1,4 @@
-const { books, idCounter } = require("../data/books");
+const { books, idCounter } = require("../models/books");
 
 const getAllBooks = (req, res) => {
     res.json(books);
